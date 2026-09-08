@@ -1,0 +1,1 @@
+O seu osvaldo quer um sistema para poder gerenciar o negócio dele de carros, para poder saber qual carro ja foi concertdo e qual ainda não foi, e os poder mostrar os valores para que seus sabiam o valor a ser pago 
